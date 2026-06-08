@@ -6,8 +6,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarahferrarir&radius=16&theme=gotham&area=true&order=5" height="300" alt="activity graph" />
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarahferrarir&theme=gotham&hide_border=false" height="130" alt="streak stats" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahferrarir&layout=compact&langs_count=5&theme=gotham&hide_border=false" height="130" alt="top languages" />
+  
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sarahferrarir&layout=compact&langs_count=8&theme=gotham&hide_border=false&exclude_repo=&hide=jupyter%20notebook" height="130" alt="top languages" />
 </div>
 
 ###
