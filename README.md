@@ -3,9 +3,11 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarahferrarir&radius=16&theme=gotham&area=true&order=5" height="300" alt="activity-graph graph"  />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=sarahferrarir&theme=gotham&hide_border=false" height="130" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarahferrarir&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="130" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarahferrarir&radius=16&theme=gotham&area=true&order=5" height="300" alt="activity graph" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarahferrarir&theme=gotham&hide_border=false" height="130" alt="streak stats" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahferrarir&layout=compact&langs_count=5&theme=gotham&hide_border=false" height="130" alt="top languages" />
 </div>
 
 ###
@@ -20,7 +22,7 @@
   <a href="https://www.instagram.com/sarahferrarir/?hl=en" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-  <a href="sarahferrarir@gmail.com" target="_blank">
+  <a href="mailto:sarahferrarir@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
