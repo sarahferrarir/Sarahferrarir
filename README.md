@@ -29,24 +29,6 @@
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sarahferrarir&radius=16&theme=gotham&area=true" height="300" alt="activity graph" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sarahferrarir&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=Jupyter%20Notebook" height="180" alt="top languages" />
-
-</div>
-
----
-
 ## 💻 Tech Stack
 
 <div align="center">
@@ -87,3 +69,22 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="45" />
 
 </div>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sarahferrarir&radius=16&theme=gotham&area=true" height="300" alt="activity graph" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sarahferrarir&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=Jupyter%20Notebook" height="180" alt="top languages" />
+
+</div>
+
